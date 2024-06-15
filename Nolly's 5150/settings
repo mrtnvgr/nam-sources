@@ -1,0 +1,14 @@
+-- Boost (OD1) --
+Drive: 0
+Tone: 0.65
+Level: 0.64
+
+-- Amp (3rd) --
+Gain: 0.57
+Low: 0.50
+Mid: 0.50
+High: 0.64
+Master: 0.41
+Presence: 0.46
+Resonance: 0.61
+Level: 0.77 (2.7)

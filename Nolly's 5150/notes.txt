@@ -1,0 +1,2 @@
+1. "Fullrig" model turned out bad, so it'll be a easter egg.
+2. Volume of "amp+boost" model is ~3db higher than source.
